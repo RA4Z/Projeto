@@ -1,0 +1,8 @@
+INSERT INTO cards VALUES (
+"1000025562 - Seção ABC",
+"WEC - IMPLANTAÇÃO DE EDI CLIENTE XYZ",
+"Andamento",
+"00/00/0000",
+"30/30/2021",
+"100 horas"
+);
